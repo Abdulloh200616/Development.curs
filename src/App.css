@@ -1,0 +1,554 @@
+/* ==================== HOME CSS STYLE =========================== */
+@media screen and (max-width:576px) {
+    .Blue-conteiner{
+        width: 100%;
+        margin-top: 70px;
+    }
+    .srch-box{
+        width: 10px;
+        height:70px ;
+    }
+    .srch-btn-2{
+        width:95px;
+        height:55px;
+    }
+}
+@media screen and (max-width:768px) {
+    .Blue-conteiner{
+        width: 100%;
+        height: auto;
+        margin-top: 70px;
+        padding: 20px 20px;
+    }
+    .srch-box{
+        width: 450px;
+        height:40px ;
+    }
+    .srch-btn-2{
+        width:95px;
+        height:55px;
+    }
+    .top-icons{
+        display:flex;
+        width: 50%;
+        justify-content: start;
+        align-items: start;
+        margin-top: -80px;
+    }
+    .mentor-left img{
+        width: 750px;
+        margin-left: -20px;
+       margin-top: -700px;
+    }
+    .mentor-right{
+        margin-left:-100px ;
+    }
+    
+   
+  
+  
+}
+@media screen  and(min-width:768px){
+    .Blue-conteiner{
+        width: 100%;
+        height: auto;
+        
+    }
+    .navbar-nav{
+        margin-left: -80px;
+        margin-top: -80px;
+    }
+    .srch-input{
+        width: 455px;
+        height: 40px;
+        top: 36px;
+        left: 289px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        border: 2px solid rgb(158, 158, 158);
+        border-top-left-radius: 2px;
+        border-bottom-left-radius: 2px;
+        font-family: 'Montserrat', sans-serif;
+        border-radius: 8px;
+        padding-left:55px ;
+        border: none;
+        
+    }
+    .srch-box{
+        width: 450px;
+        height:70px ;
+    }
+    .srch-btn-2{
+        display: none;
+    }
+    .blue-items{
+        display: block;
+        margin-left: 20px;
+    }
+    .dropdown{
+        margin-left: -30px;
+        margin-top: -10px;
+    }
+    .mentor-left img{
+        width: 750px;
+        margin-left: -20px;
+        margin-top: -500px;
+    }
+    .Iconbox1{
+        display: block;
+        margin-left: -20px;
+    }
+    .Iconbox2{
+        display: block;
+        margin-left: -20px;
+    }
+    .last-cards {
+        display: block;
+
+    }
+    .last-cards .cards{
+        width: 1200px;
+        height: auto;
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width:992px) {
+    
+    .Blue-conteiner{
+        width: 100%;
+        height: auto;
+        margin-top: 50px;
+    }
+    .btn-1{
+        display: none;
+    }
+    .btn-2{
+        display: none;
+    }
+    
+    .link-mentor{
+        display: none;
+    }
+    .box-img{
+       display: none;
+    }
+    .box-blue{
+        width: 100%;
+        height: 1200px;
+        
+    }
+    .img-btn{
+        display: none;
+    }
+    .srch-box input{
+        width: 470px;
+        
+        
+    }
+    .srch-btn-2{
+       display: none;
+    }
+    .big-btn{
+        text-align: center;
+        margin-left: -10px;
+    }
+    .box2{
+        width:1220px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+       
+    }
+    .box1{
+        width:122px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+       
+    }
+    .box2 .img-card{
+        width: 100%;
+        height: 350px;
+    }
+    .box1 .img-card{
+        width: 100%;
+        height: 350px;
+    }
+    .top-container h1{
+        margin-top: -10px;
+        margin-bottom: -30px;
+        
+    }
+    .box2{
+        width:1220px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+       
+       
+    }
+    .box1{
+        width:1220px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        
+       
+    }
+    .mentor-container{
+        width: 100%;
+        height: 657px;
+        top: 3714px;
+        left: 104px;
+        gap: 0px;
+        border-radius: 8px 0px 0px 0px;
+        opacity: 0px;
+        display:block;
+        justify-content: space-between;
+    
+    }
+    .mentor-left img{
+        width: 750px;
+        margin-left: -20px;
+        margin-top: 100px;
+    }
+    .mentor-right{
+        margin-left:-100px ;
+    }
+    .carusel-card{
+        margin-top: 780px;
+    }
+    .last-cards {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .last-cards .cards{
+        width: 100%;
+        height: 518px;
+        top: 5836px;
+        left: 104px;
+        gap: 0px;
+        border-radius: 8px ;
+        opacity: 0px;
+        
+    
+    }
+    .last-cards .cards img{
+        width: 100%;
+        height: 240px;
+        top: 5852px;
+        left: 120px;
+        gap: 0px;
+        border-radius: 8px;
+        text-align: center;
+        opacity: 0px;
+        margin-left: 5px;
+    
+    }
+    .Icons-container{
+        float: left;
+        margin-top: 50px;
+    }
+    .Iconbox1{
+        display: none;
+        
+    }
+    .Iconbox2{
+        margin-top: -100px;
+       margin-left: -200px;
+        
+    }
+       
+
+}
+@media screen and (max-width:1200px) {
+    .search-box input{
+        width: 500px;
+        height: 32px;
+        margin-left: 15px;
+        margin-right: 25px;
+        margin-top: -10px;
+        display: inline;
+
+    }
+    .search-box i{
+        display: none;
+    }
+    .btn-1{
+        margin-top: 40px;
+        width: 109px ;
+        height: 38px;
+       
+    }
+    .btn-2{
+        margin-top: 40px;
+        width: 109px ;
+        height: 38px;
+    }
+    .box-img{
+        display: none;
+    }
+    .right-box .img-btn{
+        display: none;
+    }
+    .box2{
+        width:1200px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+       
+    }
+    .box1{
+        width:1200px;
+        height: auto;
+        display: inline;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+       
+    }
+    .box2 img{
+        width: 1200px;
+        height: 350px;
+        margin-top: 50px;
+    }
+    .box1 img{
+        width: 1200px;
+        height: 350px;
+        margin-top: 50px;
+    }
+   
+}
+
+
+
+/* ============================ AKKOUNT STYLE ================= */
+@media screen and (max-width:576px) {
+    .acount-card-box{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box2{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box2 .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box3{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box3 .cards{
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen  and (max-width:992px){
+    .acount-titl-1{
+        display: inline;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    .acount-card-box{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box2{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box2 .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box3{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box3 .cards{
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen  and(min-width:768px){
+    .acount-card-box{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box .cards{
+        width: 100%;
+    }
+    .acount-card-box2{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box2 .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box3{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box3 .cards{
+        width: 100%;
+        height: auto;
+    }
+
+}
+@media screen  and(max-width:768px){
+    .acount-card-box .cards{
+        width: 100%;
+    }
+    .acount-card-box2{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box2 .cards{
+        width: 100%;
+        height: auto;
+    }
+    .acount-card-box3{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .acount-card-box3 .cards{
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (max-width:1200px) {
+    
+}
+
+/* ============================ COURSES STYLE======================== */
+@media screen and (max-width:576px) {
+   
+}
+@media screen and (min-width:768px) {
+ 
+}
+@media screen and (max-width:992px) {
+    .box1{
+        display:block;
+    }
+    .box1 .img-card {
+       display: none;
+    }
+    .box2{
+        display:block;
+    }
+    .box2 .img-card {
+        display: none;
+    }
+   
+    .All-curses-cotainer h1{
+        margin-top: -700px;
+    }
+    
+}
+@media screen and (min-width:1200px) {
+   
+}
+
+/* ======================== FOOTER STYLE ========================= */
+@media screen and (min-width:576px) {
+    
+}
+@media screen and (max-width:992px){
+   
+     .Footer img{
+        display: active;
+    }
+    .footer-text{ 
+         margin-top: -50px;
+     }
+    .Footer ul{
+        margin-top: 330px;
+        margin-left: 12px;
+        
+        
+    
+    }
+    .Footer{
+        height: 900px;
+        width: 100%;
+        left: 40px;
+        gap: 0px;
+        border-radius: 8px ;
+        opacity: 0px;
+        background-color: #0c2e58;
+        position: relative;
+        margin: 0 auto;
+        margin-left: -50px;
+
+    }  
+
+}
+@media screen and (max-width:768px){
+    .Footer ul{
+        margin-top: 100px;
+        margin-left: 12px;
+        margin-bottom: -90px;
+    }
+    .footer-text{ 
+        margin-top: 350px;
+    }
+    
+    .foter-left{
+        display: block;
+    }
+}
+/* =================== BLOG CONTAINER STYLE ====================== */
+@media screen and (max-width:768px) {
+    
+}
+@media screen and (max-width:992px) {
+    .new-container{
+        display: block;
+    }
+    .right-blog{
+        margin-top:370px ;
+        margin-left: -230px;
+    }
+    .left-blog{
+        display: none;
+    }
+}
